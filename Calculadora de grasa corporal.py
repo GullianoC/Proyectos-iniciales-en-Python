@@ -2,6 +2,7 @@
 from math import log10
 
 #A continuación vamos a hacer una calculadora de grasa corporal
+#Esta calculadora te informa tu situación actual respecto a la grasa corporal presente en tu cuerpo y por ende, tu estado atlético
 #Las variables usadas son las siguientes:
 # nombre, sexo, estadoFisico como string
 # altura, peso cintura, cuello, cadera, grasaCorporal como float

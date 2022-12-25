@@ -1,7 +1,14 @@
 
 import re
 #Se fabrica un detector de palíndromos (expresión que se lee igual de izquierda a derecha y viceversa)
+"""
+Este algoritmo cuando fue construido, se hizo suponiendo que al introducir las siguientes frases/palabras, fueran consideradas como palíndromos
 
+"Racecar!"
+'A car, a man, a maraca.'
+'Animal loots foliated detail of stool lamina.'
+
+"""
 
 
 def reversor(x):

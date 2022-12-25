@@ -2,6 +2,7 @@
 
 from cmath import sqrt
 # Exercise 10 - Fibonacci
+#En este algoritmo se busca calcular la sucesión de fibonacci para el n-ésimo término, pero superando ciertos test específicos
 
 """
 

@@ -1,3 +1,13 @@
+"""
+La finalidad de este algoritmo es la de poder comparar entre asignaturas de las carreras relacionadas a la Informática.
+En este algoritmo se hace una comparación entre las asignaturas de la Facultad de Ciencias Exactas y Tecnología (UNT), y se consideran las tres carreras principales relacionadas con la informática.
+Las carreras son:
+1) Programador Universitario
+2) Licenciatura en Informática
+3) Ingeniería en Informática
+
+"""
+
 programador = "Programador Universitario"
 licinformatica = "Lic. en Informática"
 inginformatica = "Ing. en Informática"
